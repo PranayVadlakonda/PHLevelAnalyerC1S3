@@ -17,6 +17,10 @@ public class PhLevelAnalyser {
     public String getphValueOfWater(int phLevel){
 
         String statusOfAquarium="";
+            if (phlevel < 7) {
+                statusOfAquarium = "pH value is low, partial water change is required";
+                
+            }
 
 
 
