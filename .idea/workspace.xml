@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34433d53-5d17-4a27-ad5c-b3f16f97813d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/PhLevelAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/PhLevelAnalyser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +81,27 @@
       <option name="project" value="LOCAL" />
       <updated>1684746504389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initialized string with variable status of aquarium">
+      <created>1684746942993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684746942993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="if phlevel &lt; 7 then print ph value is low , prtial water change is required">
+      <created>1684747198615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684747198615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialized nre scanner and printed enter phlevel" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized nre scanner and printed enter phlevel" />
+    <MESSAGE value="initialized string with variable status of aquarium" />
+    <MESSAGE value="if phlevel &lt; 7 then print ph value is low , prtial water change is required" />
+    <option name="LAST_COMMIT_MESSAGE" value="if phlevel &lt; 7 then print ph value is low , prtial water change is required" />
   </component>
 </project>

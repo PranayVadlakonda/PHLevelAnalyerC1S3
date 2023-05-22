@@ -6,7 +6,7 @@ public class PhLevelAnalyser {
     public static void main(String[] args) {
         String statusOfAquarium = "";
         Scanner Scanner = new Scanner(system.in);
-        System.out.println("Enter phlevel :");
+        System.out.println("Enter phLevel :");
         int phLevel = scanner.nextInt();
         PhLevelAnalyser phLevelAnalyser = new PhLevelAnalyser();
         String data = phLevelAnalyser.getphValueOfWater(phLevel);
